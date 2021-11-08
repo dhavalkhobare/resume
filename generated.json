@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "6188cc28d91ae74a6d791b15",
+    "age": 34,
+    "eyeColor": "blue",
+    "name": "Gale Sandoval",
+    "gender": "female",
+    "email": "galesandoval@orbean.com",
+    "phone": "+1 (841) 403-3803",
+    "greeting": "Hello, Gale Sandoval! You have 2 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "6188cc286418ce1aba32bb99",
+    "age": 34,
+    "eyeColor": "blue",
+    "name": "Jamie Cain",
+    "gender": "female",
+    "email": "jamiecain@orbean.com",
+    "phone": "+1 (819) 448-2800",
+    "greeting": "Hello, Jamie Cain! You have 6 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "6188cc28b7821a00ea51bb8b",
+    "age": 38,
+    "eyeColor": "blue",
+    "name": "Hartman Wallace",
+    "gender": "male",
+    "email": "hartmanwallace@orbean.com",
+    "phone": "+1 (810) 467-2789",
+    "greeting": "Hello, Hartman Wallace! You have 6 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "6188cc28d4addc1ca7bd0a8a",
+    "age": 27,
+    "eyeColor": "green",
+    "name": "House Mccormick",
+    "gender": "male",
+    "email": "housemccormick@orbean.com",
+    "phone": "+1 (891) 434-3947",
+    "greeting": "Hello, House Mccormick! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "6188cc2854b03145e5013b63",
+    "age": 29,
+    "eyeColor": "brown",
+    "name": "James Mosley",
+    "gender": "male",
+    "email": "jamesmosley@orbean.com",
+    "phone": "+1 (867) 414-2819",
+    "greeting": "Hello, James Mosley! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "6188cc2863892f8016316125",
+    "age": 30,
+    "eyeColor": "green",
+    "name": "Velez Carver",
+    "gender": "male",
+    "email": "velezcarver@orbean.com",
+    "phone": "+1 (972) 565-3913",
+    "greeting": "Hello, Velez Carver! You have 3 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "6188cc289c0c60fc03537b34",
+    "age": 30,
+    "eyeColor": "blue",
+    "name": "Juliette Salazar",
+    "gender": "female",
+    "email": "juliettesalazar@orbean.com",
+    "phone": "+1 (958) 481-2267",
+    "greeting": "Hello, Juliette Salazar! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
